@@ -1,6 +1,6 @@
-# Program to find out whether a given username contains less than 10 characters or not.
+# Program to find out whether a given username present in the list or not.
 names = ["sahil", "shubham", "arun", "aman"]
-name = input("Enter the name of check\n")
+name = input("Enter the name :\n")
 if(name in names):
     print("your name is present in list")
 else:
