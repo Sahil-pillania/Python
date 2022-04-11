@@ -1,6 +1,13 @@
-# Poem writing using python
+# Poem printing using python...
 
+
+"""
+print
+table 
+"""
 print('''Twinkle, twinkle, little star
-How I wonder what you are
-Up above the world so high
-Like a diamond in the sky.''')
+         How I wonder what you are
+         Up above the world so high
+         Like a diamond in the sky.''', end="")
+
+print("......ending")

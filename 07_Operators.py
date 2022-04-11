@@ -3,13 +3,13 @@ print("Arithmetic operators")
 a = 3
 b = 4
 
-#Arithmetic operators
+#Arithmetic operators ----
 print("the value of 3+4 is ",3+4)
 print("the value of 3-4 is ",3-4)
 print("the value of 3/4 is ",3/4)
 print("the value of 3*4 is ",3*4)
 
-# Assignment operators
+# Assignment operators----
 print("Assignment operators")
 a = 34    
 a -=5
@@ -18,7 +18,7 @@ a *=5
 print(a)    # Here all a along with operator evaluate in sequence.
 
 # Comparison operators
-print("Comparison operators")   #returs a boolean value
+print("Comparison operators")   #returns a boolean value
 b = (4>=7)
 C = (4>7)
 D = (4<=7)
@@ -32,7 +32,7 @@ print(E)
 print(F)
 print(G)
 
-#logical operators
+#logical operators----
 print("logical operators")
 bool1 = True
 bool2 = False

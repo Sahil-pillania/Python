@@ -1,8 +1,8 @@
 # Container in python - data types and variables
-a = "Sahil"    #string
+a = "Sahil Pillania"    #string
 b = 45         #integer
 c = 53.56      #decimal nos.
-d = True       #booleans
+d = False       #booleans
 e = None       #none
 #printing type of variables
 print(type(a))
