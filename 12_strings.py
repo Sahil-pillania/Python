@@ -1,9 +1,10 @@
 # Strings
-a = 34           #integer
-b = "Sahil's"    # Use this when you have single quotes in your string.   # string type
+a = 34  # integer
+# Use this when you have single quotes in your string.   # string type
+b = "Sahil's world"
 c = 'Sahil'      # string type
 d = '''Sahil'''  # string type
-print(a,b,c,d)
-print(type(b)) 
-print(type(c)) 
+print(a, b, c, d)
+print(type(b))
+print(type(c))
 print(type(d))
