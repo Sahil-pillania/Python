@@ -1,6 +1,6 @@
 def greet(name="Stranger"):  # default name is now stranger
-    print("Good Day, "+ name)
- 
+    print("Good Day, " + name)
 
-greet("Harry") 
+
+greet("Sahil Pillania")
 greet()         # Here stranger default value will be shown
