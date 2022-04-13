@@ -1,11 +1,11 @@
 
- # replacing words file function
+# replacing words file function
 
-words = [ "donkey", "kaddu","fatty"]
+words = ["donkey", "kaddu", "fatty"]
 with open("sample.txt") as f:
     content = f.read()
 for word in words:
-content = content.replace("word", "$%^$%")
+    content = content.replace("word", "$%^$%")
 
 with open("sample.txt", "w") as f:
-     f.write(content)
+    f.write(content)
