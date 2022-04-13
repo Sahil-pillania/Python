@@ -18,6 +18,6 @@ print(c)
 
 # List slicing
 print("List slicing")
-name = ["Sahil", "Rohan", "Arun", "Tom", "Somvir", 69]
+name = ["Sahil", "Rohan", "Arun", "Tommy", "Somvir", 69]
 print(name[0:4])  # 4 is excluded
 print(name[3:])  # execute all elements from 3

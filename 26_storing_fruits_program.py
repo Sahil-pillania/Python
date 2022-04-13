@@ -1,5 +1,5 @@
-#program to store seven fruits in a list entered by the user.
-f1 = input("Enter fruit number 1: ")
+# program to store seven fruits in a list entered by the user.
+f1 = input("Enter fruit number 1: ")  # getting input from user from f1 to f7
 f2 = input("Enter fruit number 2: ")
 f3 = input("Enter fruit number 3: ")
 f4 = input("Enter fruit number 4: ")
