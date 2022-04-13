@@ -1,22 +1,20 @@
 print("Method 1:")
 # Creating an empty set
-b = set()
-print(type(b))
+C = set()
+print(type(C))
 
-#Adding values to an empty set.
-b.add(4) # adding value 
-b.add(5) # adding value 
-b.add(7) # adding value
-print(b)
+# Adding values to an empty set.
+C.add(4)  # adding value
+C.add(5)  # adding value
+C.add(7)  # adding value
+print(C)
 
-print("method 2:") # length of an item
-print(len(b))  #print the length of set
+print("method 2:")  # length of an item
+print(len(C))  # print the length of set
 
 print("method 3:")
-b.remove(5) #removes 5 from set
-print(b)
+C.remove(5)  # removes 5 from set
+print(C)
 
 print("method 4:")
-print(b.pop())  # removes arbitrary element from the set and return the element removed
-
-
+print(C.pop())  # removes arbitrary element from the set and return the element removed
